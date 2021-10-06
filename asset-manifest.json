@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/maithri/static/css/main.e6064ea0.chunk.css",
-    "main.js": "/maithri/static/js/main.2d8028eb.chunk.js",
-    "main.js.map": "/maithri/static/js/main.2d8028eb.chunk.js.map",
-    "runtime-main.js": "/maithri/static/js/runtime-main.5e28a697.js",
-    "runtime-main.js.map": "/maithri/static/js/runtime-main.5e28a697.js.map",
+    "main.js": "/maithri/static/js/main.6119d9b9.chunk.js",
+    "main.js.map": "/maithri/static/js/main.6119d9b9.chunk.js.map",
+    "runtime-main.js": "/maithri/static/js/runtime-main.eb0e549d.js",
+    "runtime-main.js.map": "/maithri/static/js/runtime-main.eb0e549d.js.map",
     "static/js/2.1acf408b.chunk.js": "/maithri/static/js/2.1acf408b.chunk.js",
     "static/js/2.1acf408b.chunk.js.map": "/maithri/static/js/2.1acf408b.chunk.js.map",
     "static/js/3.4cf4f5cb.chunk.js": "/maithri/static/js/3.4cf4f5cb.chunk.js",
@@ -15,27 +15,27 @@
     "static/js/5.a2400ddd.chunk.js.map": "/maithri/static/js/5.a2400ddd.chunk.js.map",
     "static/js/6.5251261e.chunk.js": "/maithri/static/js/6.5251261e.chunk.js",
     "static/js/6.5251261e.chunk.js.map": "/maithri/static/js/6.5251261e.chunk.js.map",
-    "static/js/7.cc6f4a76.chunk.js": "/maithri/static/js/7.cc6f4a76.chunk.js",
-    "static/js/7.cc6f4a76.chunk.js.map": "/maithri/static/js/7.cc6f4a76.chunk.js.map",
-    "static/js/8.d7d1aadc.chunk.js": "/maithri/static/js/8.d7d1aadc.chunk.js",
-    "static/js/8.d7d1aadc.chunk.js.map": "/maithri/static/js/8.d7d1aadc.chunk.js.map",
-    "static/js/9.9c17f85a.chunk.js": "/maithri/static/js/9.9c17f85a.chunk.js",
-    "static/js/9.9c17f85a.chunk.js.map": "/maithri/static/js/9.9c17f85a.chunk.js.map",
+    "static/js/7.139ec41a.chunk.js": "/maithri/static/js/7.139ec41a.chunk.js",
+    "static/js/7.139ec41a.chunk.js.map": "/maithri/static/js/7.139ec41a.chunk.js.map",
+    "static/js/8.cdcf1d32.chunk.js": "/maithri/static/js/8.cdcf1d32.chunk.js",
+    "static/js/8.cdcf1d32.chunk.js.map": "/maithri/static/js/8.cdcf1d32.chunk.js.map",
+    "static/js/9.59991e66.chunk.js": "/maithri/static/js/9.59991e66.chunk.js",
+    "static/js/9.59991e66.chunk.js.map": "/maithri/static/js/9.59991e66.chunk.js.map",
     "static/js/10.a30b063e.chunk.js": "/maithri/static/js/10.a30b063e.chunk.js",
     "static/js/10.a30b063e.chunk.js.map": "/maithri/static/js/10.a30b063e.chunk.js.map",
     "static/js/11.cb02746f.chunk.js": "/maithri/static/js/11.cb02746f.chunk.js",
     "static/js/11.cb02746f.chunk.js.map": "/maithri/static/js/11.cb02746f.chunk.js.map",
-    "static/js/12.f285cd5b.chunk.js": "/maithri/static/js/12.f285cd5b.chunk.js",
-    "static/js/12.f285cd5b.chunk.js.map": "/maithri/static/js/12.f285cd5b.chunk.js.map",
+    "static/js/12.21d2e90b.chunk.js": "/maithri/static/js/12.21d2e90b.chunk.js",
+    "static/js/12.21d2e90b.chunk.js.map": "/maithri/static/js/12.21d2e90b.chunk.js.map",
     "index.html": "/maithri/index.html",
     "static/css/main.e6064ea0.chunk.css.map": "/maithri/static/css/main.e6064ea0.chunk.css.map",
     "static/js/2.1acf408b.chunk.js.LICENSE.txt": "/maithri/static/js/2.1acf408b.chunk.js.LICENSE.txt",
     "static/js/3.4cf4f5cb.chunk.js.LICENSE.txt": "/maithri/static/js/3.4cf4f5cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5e28a697.js",
+    "static/js/runtime-main.eb0e549d.js",
     "static/js/3.4cf4f5cb.chunk.js",
     "static/css/main.e6064ea0.chunk.css",
-    "static/js/main.2d8028eb.chunk.js"
+    "static/js/main.6119d9b9.chunk.js"
   ]
 }
