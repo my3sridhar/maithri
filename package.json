@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://my3sridhar.github.io/",
+  "homepage": "https://my3sridhar.github.io/maithri",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/my3sridhar/my3sridhar.github.io.git"
+    "url": "https://github.com/my3sridhar/maithri.git"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
