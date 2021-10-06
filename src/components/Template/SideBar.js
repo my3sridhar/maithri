@@ -31,7 +31,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Maithri Sridhar <Link to="/">theraos.in</Link>.</p>
+      <p className="copyright">&copy; Maithri Sridhar <Link to="/">theraos.com</Link>.</p>
     </section>
   </section>
 );
