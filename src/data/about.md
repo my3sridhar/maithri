@@ -51,5 +51,7 @@ Studying!!!!
 # Websites from people I admire
 
 - [Sridhar K. N. Rao](https://theraos.in/)
+- [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
+
 
 If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
