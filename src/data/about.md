@@ -5,13 +5,13 @@ Bonjour! I am Maithri.S.Rao. I am studying at NAFL. I am very fond of learning n
 
 # Currently
 
-Studying!!!!
+Studying!!
 
 # Some history
 
 - I was born in Mangalore, India. I currently live in Bangalore, India
 - I lived in Italy for a year.
-- I Studied in Sping Blossom and Presidency School.
+- I Studied in Spring Blossom and Presidency School.
 
 # I like
 
@@ -23,6 +23,7 @@ Studying!!!!
 - Travelling
 - Cooking and eating
 - Coding
+- Math
 
 # Travel / Geography
 
@@ -47,6 +48,7 @@ Studying!!!!
 - performing on a golden piano at the Royal Albert hall in Kensington, United Kingdom
 - honing my skills whenever I have the opportunity to!
 - doing better.
+- becoming a genius coder
 
 # Websites from people I admire
 
@@ -54,6 +56,9 @@ Studying!!!!
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
 - [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 - [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+- [Pyotr Ilyich Tchaikovsky](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky)
+- [Coco Chanel](https://en.wikipedia.org/wiki/Coco_Chanel)
+
 
 
 
