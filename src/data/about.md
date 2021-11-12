@@ -50,10 +50,10 @@ Studying!!!!
 
 # Websites from people I admire
 
-- [Sridhar K. N. Rao](https://theraos.in/)
+- [Sridhar K. N. Rao](https://www.theraos.in/)
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
 - [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
-- [wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+- [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
 
 
 
