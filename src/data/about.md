@@ -52,6 +52,9 @@ Studying!!!!
 
 - [Sridhar K. N. Rao](https://theraos.in/)
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
+- [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
+- [wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+
 
 
 If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
