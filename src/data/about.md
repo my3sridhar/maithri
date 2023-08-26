@@ -19,7 +19,6 @@ Studying!!
 - Movies
 - Music (western-classical, Pop)
 - Playing piano
-- Summer
 - Travelling
 - Cooking and eating
 - Coding
@@ -34,18 +33,21 @@ Studying!!
 - Visited UAE in 2016
 - Visited Turkey in 2018
 - Visited Egypt in 2019
+- Visited Singapore in 2023
+
 
 # Fun facts
 
-- I collect old post-its
 - I have a mini-library in my house, but I am not fond of reading at all!
 - I am terrified of horror movies, yet I watch it for the thrill
 - I once won the cutest baby award on a plane
 - My parents have 8 educational degrees between them. Crazy right!
+- I can sleep for 18 hours in a day :)
+- My adventures before my first birthday: Gotten my passport stolen, visited 10 countries, been in a bus that caught on fire as soon we got off, drank bitter black coffee, ate authentic gelato and swiss chocolate. 
 
 # I dream of
 
-- a bright and successful future
+- a bright and successful future, in France. 
 - performing on a golden piano at the Royal Albert hall in Kensington, United Kingdom
 - honing my skills whenever I have the opportunity to!
 - doing better.
@@ -53,12 +55,15 @@ Studying!!
 
 # Websites from people I admire
 
-- [Sridhar K. N. Rao](https://www.theraos.in/)
+- [Sridhar K. N. Rao]
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace)
 - [Ludwig van Beethoven](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 - [Wolfgang Amadeus Mozart](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
 - [Pyotr Ilyich Tchaikovsky](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky)
 - [Coco Chanel](https://en.wikipedia.org/wiki/Coco_Chanel)
+- [Taylor Swift] (https://www.taylorswift.com/)
+- [Marie Curie] (https://en.wikipedia.org/wiki/Marie_Curie)
+
 
 
 
