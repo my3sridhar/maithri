@@ -1,7 +1,7 @@
 
 # Intro
 
-Bonjour! I am Maithri.S.Rao. I am studying at NAFL. I am very fond of learning new things. I am a newbie in programming. I am both a good chef and a huge foodie. If you think I can be of help to you, please do contact me. Feel free to also go through my website.
+Bonjour! I am Maithri.S.Rao. I am studying at NAFL, Basaveshwarnagar, Bangalore. I am very fond of learning new things. I am a newbie in programming. I am both a good chef and a huge foodie. If you think I can be of help to you, please do contact me. Feel free to also go through my website.
 
 # Currently
 
