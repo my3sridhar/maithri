@@ -25,6 +25,7 @@ Studying!!
 - Coding
 - Math
 
+
 # Travel / Geography
 
 - Visited Italy, France, Germany, Switzerland, England and Spain in 2009
