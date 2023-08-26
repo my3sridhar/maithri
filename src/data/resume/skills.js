@@ -6,7 +6,7 @@ const skills = [
     title: 'French',
     competency: 4,
     category: ['Linguistics'],
-  }
+  },
   {
     title: 'Hindi',
     competency: 2,
