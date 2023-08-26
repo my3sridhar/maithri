@@ -9,12 +9,39 @@ const positions = [
     ],
   },
   {
+    company: 'LCM Piano',
+    position: 'Grade-2',
+    link: 'https://lcme.uwl.ac.uk/exams/piano/piano',
+    daterange: 'October 2021 - August 2022',
+    points: [
+      'Scored 100 out of 100',
+    ],
+  },
+  {
     company: 'Delf Junior French',
     position: 'A1',
     link: 'http://www.delfdalf.fr/delf-junior-version.html',
     daterange: 'January 2020 - December 2021',
     points: [
       'Exam in December 2021',
+    ],
+  },
+  {
+    company: 'Delf Junior French',
+    position: 'A2',
+    link: 'http://www.delfdalf.fr/delf-junior-version.html',
+    daterange: 'March 2021 - April 2022',
+    points: [
+      'Exam in April 2022',
+    ],
+  },
+  {
+    company: 'Delf Junior French',
+    position: 'B1',
+    link: 'http://www.delfdalf.fr/delf-junior-version.html',
+    daterange: 'May 2022 - April 2023',
+    points: [
+      'Exam in April 2023',
     ],
   },
   {
