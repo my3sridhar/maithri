@@ -18,15 +18,15 @@ const courses = [
     university: 'Science Centre',
   },
   { 
-    title: 'AoPS Introduction to Number Theory,
+    title: 'AoPS Introduction to Number Theory',
     number: 'number theory',
-    link: 'https://artofproblemsolving.com/school/course/intro-numbertheory'
+    link: 'https://artofproblemsolving.com/school/course/intro-numbertheory',
     university: 'AoPS',
   },
   { 
-    title: 'AoPS Introduction to Geometry,
+    title: 'AoPS Introduction to Geometry',
     number: 'geometry',
-    link: 'https://artofproblemsolving.com/school/course/intro-geometry'
+    link: 'https://artofproblemsolving.com/school/course/intro-geometry',
     university: 'AoPS',
   },
 ];
