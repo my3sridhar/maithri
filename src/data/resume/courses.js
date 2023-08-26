@@ -16,19 +16,18 @@ const courses = [
     number: 'explorer-camp',
     link: 'https://www.science.edu.sg/',
     university: 'Science Centre',
-	
   },
   { 
     title: 'AoPS Introduction to Number Theory,
-	number: 'number theory',
-	link: 'https://artofproblemsolving.com/school/course/intro-numbertheory'
-	university: 'AoPS',
+    number: 'number theory',
+    link: 'https://artofproblemsolving.com/school/course/intro-numbertheory'
+    university: 'AoPS',
   },
   { 
     title: 'AoPS Introduction to Geometry,
-	number: 'geometry',
-	link: 'https://artofproblemsolving.com/school/course/intro-geometry'
-	university: 'AoPS',
+    number: 'geometry',
+    link: 'https://artofproblemsolving.com/school/course/intro-geometry'
+    university: 'AoPS',
   },
 ];
 

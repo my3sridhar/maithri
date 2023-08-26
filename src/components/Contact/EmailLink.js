@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 
-
 // Validates the first half of an email address.
 const validateText = (text) => {
   // NOTE: Passes RFC 5322 but not tested on google's standard.
