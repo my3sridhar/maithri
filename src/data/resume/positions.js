@@ -1,11 +1,11 @@
 const positions = [
   {
     company: 'LCM Piano',
-    position: 'Grade-1',
+    position: 'Grade-3',
     link: 'https://lcme.uwl.ac.uk/exams/piano/piano',
-    daterange: 'January 2020 - August 2021',
+    daterange: 'September 2022 - August 2023',
     points: [
-      'Scored 100 out of 100',
+      'Under Evaluation',
     ],
   },
   {
@@ -18,21 +18,12 @@ const positions = [
     ],
   },
   {
-    company: 'Delf Junior French',
-    position: 'A1',
-    link: 'http://www.delfdalf.fr/delf-junior-version.html',
-    daterange: 'January 2020 - December 2021',
+    company: 'LCM Piano',
+    position: 'Grade-1',
+    link: 'https://lcme.uwl.ac.uk/exams/piano/piano',
+    daterange: 'January 2020 - August 2021',
     points: [
-      'Exam in December 2021',
-    ],
-  },
-  {
-    company: 'Delf Junior French',
-    position: 'A2',
-    link: 'http://www.delfdalf.fr/delf-junior-version.html',
-    daterange: 'March 2021 - April 2022',
-    points: [
-      'Exam in April 2022',
+      'Scored 100 out of 100',
     ],
   },
   {
@@ -41,7 +32,25 @@ const positions = [
     link: 'http://www.delfdalf.fr/delf-junior-version.html',
     daterange: 'May 2022 - April 2023',
     points: [
-      'Exam in April 2023',
+      'Merit - 65%',
+    ],
+  },
+  {
+    company: 'Delf Junior French',
+    position: 'A2',
+    link: 'http://www.delfdalf.fr/delf-junior-version.html',
+    daterange: 'March 2021 - April 2022',
+    points: [
+      'Distinction - 91%',
+    ],
+  },
+  {
+    company: 'Delf Junior French',
+    position: 'A1',
+    link: 'http://www.delfdalf.fr/delf-junior-version.html',
+    daterange: 'January 2020 - December 2021',
+    points: [
+      'Distiction - 96%',
     ],
   },
   {
