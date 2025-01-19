@@ -1,11 +1,29 @@
 const positions = [
   {
+    company: 'Indo French Hub',
+    position: '3rd Place in the world',
+    link: 'https://lcme.uwl.ac.uk/exams/piano/piano',
+    daterange: 'December 2024 - January 2025',
+    points: [
+      'Came Third in an Internation French Writing competition, among other professionals, adults and French teachers. Also won a cash prize of 7000 rupees',
+    ],
+  },
+  {
+    company: 'LCM Piano',
+    position: 'Grade-4',
+    link: 'https://lcme.uwl.ac.uk/exams/piano/piano',
+    daterange: 'November 2023 - December 2024',
+    points: [
+      'Scored 85 out of 100',
+    ],
+  },
+  {
     company: 'LCM Piano',
     position: 'Grade-3',
     link: 'https://lcme.uwl.ac.uk/exams/piano/piano',
     daterange: 'September 2022 - August 2023',
     points: [
-      'Under Evaluation',
+      'Scored 93 out of 100',
     ],
   },
   {
