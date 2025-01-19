@@ -1,5 +1,11 @@
 const degrees = [
   {
+    school: 'NPS RNR, Bangalore, India',
+    degree: 'From Grade 11 - 12',
+    link: 'https://www.npsrnr.com/,
+    year: 2025,
+  },
+  {
     school: 'NAFL, Basaveshwarnagar, Bangalore, India',
     degree: 'From Grade 6 - Current',
     link: 'https://nafl.in',
