@@ -34,6 +34,7 @@ Studying!!
 - Visited Turkey in 2018
 - Visited Egypt in 2019
 - Visited Singapore in 2023
+- Visited France in 2025
 
 
 # Fun facts
