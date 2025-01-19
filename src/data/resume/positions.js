@@ -2,7 +2,7 @@ const positions = [
   {
     company: 'Indo French Hub',
     position: '3rd Place in the world',
-    link: 'https://lcme.uwl.ac.uk/exams/piano/piano',
+    link: 'https://indofrenchhub.com/concours-2024-lettre-au-pere-noel/',
     daterange: 'December 2024 - January 2025',
     points: [
       'Came Third in an Internation French Writing competition, among other professionals, adults and French teachers. Also won a cash prize of 7000 rupees',
