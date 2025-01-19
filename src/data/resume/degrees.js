@@ -7,7 +7,7 @@ const degrees = [
   },
   {
     school: 'NAFL, Basaveshwarnagar, Bangalore, India',
-    degree: 'From Grade 6 - Current',
+    degree: 'From Grade 6 - 10',
     link: 'https://nafl.in',
     year: 2021,
   },
